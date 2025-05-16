@@ -103,7 +103,7 @@ INSERT INTO Usuario_Telefono (ID_Usuario, Telefono) VALUES
 (47, '555-100-0019'),
 (48, '555-100-0019'),
 (49, '555-100-0019'),
-(50, '555-100-0019'),
+(50, '555-100-0019');
 
 -- Inserciones para Usuario_Rol (asignando roles "Voluntario" o "Organizador")
 INSERT INTO Usuario_Rol (ID_Usuario, Rol) VALUES
@@ -127,7 +127,7 @@ INSERT INTO Usuario_Rol (ID_Usuario, Rol) VALUES
 (17, 'Voluntario'),
 (18, 'Voluntario'),
 (19, 'Organizador'),
-(20, 'Voluntario').
+(20, 'Voluntario'),
 (21, 'Voluntario'),
 (22, 'Organizador'),
 (23, 'Voluntario'),
